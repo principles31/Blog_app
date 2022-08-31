@@ -14,4 +14,3 @@ class CommentsController < ApplicationController
       params.require(:comment).permit(:text, :post_id, :author_id)
     end
   end
-  
