@@ -50,6 +50,11 @@ In your browser, go to
 - Twitter: [@manuel31mens](https://Twiter.com/@Manuel31mens)
 - LinkedIn: [emmanuel-mensah](www.linkedin.com/in/emmanuel-mensah-)
 
+👤 **Joseph Kwesi Kwentsir**
+
+- GitHub: [@Kwentsir](https://github.com/Kwentsir/)
+- Twitter: [@jkwentsir](https://twitter.com/jkwentsir)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/josephkwentsir/)
 
 ## 🤝 Contributing
 
